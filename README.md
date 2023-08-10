@@ -1,4 +1,4 @@
-# Project Name
+# Ether Wager Hub
 
 Ether Wager App is a decentralized betting platform where friends and family can pool together Ethereum for some betting fun
 
@@ -7,10 +7,6 @@ Ether Wager App is a decentralized betting platform where friends and family can
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
